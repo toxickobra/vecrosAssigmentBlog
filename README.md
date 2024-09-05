@@ -34,5 +34,5 @@ MyBlog is a simple blogging platform where users can create, read, update, and d
 
 ## Deployment
 
-The application is deployed at: [https://your-deployment-url.com](https://your-deployment-url.com)
+The application is deployed at: [https://vecros-assigment-blog.vercel.app/](https://vecros-assigment-blog.vercel.app/)
 
