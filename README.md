@@ -15,7 +15,7 @@ MyBlog is a simple blogging platform where users can create, read, update, and d
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/myblog.git
+    git clone https://github.com/toxickobra/myblog.git
     cd myblog
     ```
 
