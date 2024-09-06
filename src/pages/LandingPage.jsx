@@ -47,9 +47,6 @@ function LandingPage() {
   const allBlogs = useSelector((state) => state.blogs.allBlogs) || [];
   const selectedCategory = useSelector((state) => state.category.selectedCategory);
 
-  if (!allBlogs.length) {
-    return <div>Loading...</div>;
-  }
 
   const filteredBlogs = allBlogs.filter((blog) => {
     if (selectedCategory === 'Featured') {
